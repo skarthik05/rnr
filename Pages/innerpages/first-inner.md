@@ -1,5 +1,5 @@
 ---
-title: 'First-Inner-Page'
+title: 'pages/innerpages/first-inner.md'
 date: '2020-01-01'
 ---
 
