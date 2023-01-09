@@ -1,5 +1,5 @@
 ---
-title: 'Sample-Readme'
+title: 'Pages/Innerpages/sample/sample.md'
 date: '2020-01-01'
 ---
 
